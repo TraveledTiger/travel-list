@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+This is a travel-list that takes notes of what items you are taking when you travel and the quantity of them. Check the boxes if you have them or not!
+
 ## Available Scripts
 
 In the project directory, you can run:
